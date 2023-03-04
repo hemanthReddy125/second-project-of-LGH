@@ -8,3 +8,9 @@ public class demo_file{
 
 
 // it is the syntax of an single line comment
+
+/*
+
+it is the synttax of multi line comment
+
+*/
